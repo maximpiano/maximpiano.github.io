@@ -8,19 +8,30 @@ html {
   font-family: 'Helvetica Neue'; 
 }
 
-html {
-	background-image: url("hello.jpg");
+/*ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	margin-top: 20px;
 }
+
+ul li {
+	float: left; 
+	width: 200px;
+	height: 40px;
+	background-color: white;
+}*/
+
 
 
 .intro {
-	width: 400px;
+	width: 500px;
 	height: 450px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 140px;
+	margin-top: 100px;
 	text-align: center;
 }
 
@@ -52,11 +63,31 @@ h1 {
 }
 
 
+.portfolio h1 {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: 'Nosifer', cursive;
+}
 
+.line-break-a {
+	width: 400px;
+	margin: 0 auto;
+	border-top: 1px solid white;
+}
 
-
-
-
+.portfolio {
+	width: 500px;
+	height: 450px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	font-family: 'Nosifer', cursive;
+	/*margin-bottom: 100px;*/
+}
 
 
 

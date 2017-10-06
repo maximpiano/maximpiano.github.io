@@ -1,0 +1,26 @@
+
+html { 
+  background: url(hello.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neue'; 
+}
+
+html {
+	background-image: url("hello.jpg");
+}
+
+
+.p {
+	width: 400px;
+	height: 200px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 240px;
+	text-align: center;
+	letter-spacing: 6;
+}
